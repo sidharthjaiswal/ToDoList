@@ -41,13 +41,11 @@ const styles = StyleSheet.create({
   sectionTitle: {
     fontSize: 24,
     fontWeight: 'bold',
-    height: 58,
-    width: 176,
-    left: 11,
-    top: 108,
 
   },
-  items: {},
+  items: {
+    marginTop: 30,
+  },
 
 
 });
